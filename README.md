@@ -1,0 +1,2 @@
+# MySnippets
+MySublimeSnippets
